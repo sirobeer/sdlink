@@ -1,0 +1,14 @@
+#EXTM3U
+
+EXTINF:-1,ฟ้าวันใหม่
+https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist.m3u8
+#EXTINF:-1,FWTOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,Toonee
+http://61.19.242.134/feed/202105171329/LC23/index.m3u8
+#EXTINF:-1,Boomerang th
+http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8
+#EXTINF:-1,Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1,Sanook
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
