@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg",CH5 https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1,tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg",CH5 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1,NBT
 http://host4.dynns.com/stream/ce9a1585f45d4379970b95308df3f879.m3u8
