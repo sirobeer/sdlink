@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1,tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg",CH5 https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1,CH5 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1,NBT
 http://host4.dynns.com/stream/ce9a1585f45d4379970b95308df3f879.m3u8
@@ -25,22 +24,31 @@ http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8
 
 #EXTINF:-1,workpoint
 http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
+
 #EXTINF:-1,True4u
 http://host4.dynns.com/stream/9ece9059930d4331a3d445f96fb30dff.m3u8
+
 #EXTINF:-1,GMMChannel
 http://host4.dynns.com/stream/ab0b43ef8363438098a94101e93ca138.m3u8
+
 #EXTINF:-1,ch8
 http://host4.dynns.com/stream/15c52eeb21b748319771eb794a6cf242.m3u8
+
 #EXTINF:-1,Mono29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
 #EXTINF:-1,ch9
 http://host4.dynns.com/stream/3ae2fd6ccaf6499e898de377ed74ea12.m3u8
+
 #EXTINF:-1,one-HD
 http://host4.dynns.com/stream/7e069540a35942e89245865a84add64a.m3u8
+
 #EXTINF:-1,Thairath-TV
 http://host4.dynns.com/stream/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8
+
 #EXTINF:-1,CH3
 http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
+
 #EXTINF:-1,AMARIN-TV-HD
 http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
 
