@@ -68,11 +68,71 @@ https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist.m3u
 #EXTINF:-1,HBO
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
+#EXTINF:-1,True CHINESE MOVIE
+https://sport.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+
+#EXTINF:-1, True Thaifilm HD
+http://916309128f3e.sn.mynetname.net:1935/aslive/mcothd/chunklist_Fuso_Uhd.m3u8
+
+#EXTINF:-1,True Film HD2
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
+
+#EXTINF:-1, CINEMAX
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+
+#EXTINF:-1, CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
 #EXTINF:-1,FwMov
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
 
 #EXTINF:-1,FwSov
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
+
+#EXTINF:-1, Live sky2
+http://livetv.ddns.me:8088/live/boom@skynet/123456/554.m3u8
+
+#EXTINF:-1, Live sky3
+http://livetv.ddns.me:8088/live/boom@skynet/123456/555.m3u8
+
+#EXTINF:-1, Live sky4
+http://livetv.ddns.me:8088/live/boom@skynet/123456/556.m3u8
+
+#EXTINF:-1, i Movie
+http://livetv.ddns.me:8088/live/boom@skynet/123456/557.m3u8
+
+#EXTINF:-1, Series+ HD
+http://livetv.ddns.me:8088/live/boom@skynet/123456/558.m3u8
+
+#EXTINF:-1, A Flim
+http://livetv.ddns.me:8088/live/boom@skynet/123456/559.m3u8
+
+#EXTINF:-1, I ASia
+http://livetv.ddns.me:8088/live/boom@skynet/123456/561.m3u8
+
+#EXTINF:-1, Sat asia
+http://livetv.ddns.me:8088/live/boom@skynet/123456/562.m3u8
+
+#EXTINF:-1, Ani HD
+http://livetv.ddns.me:8088/live/boom@skynet/123456/560.m3u8
+
+#EXTINF:-1, Cable Movie 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8
+
+#EXTINF:-1, Cable Movie 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
+
+#EXTINF:-1, Cable Movie 3
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist.m3u8
+
+#EXTINF:-1, Cable Movie 4
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
+
+#EXTINF:-1, Cable Movie 5
+http://916309128f3e.sn.mynetname.net:1935/aslive/foxfamily/chunklist.m3u8
+
+#EXTINF:-1, UNIVERSAL
+http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
 
 #EXTINF:-1,WorldMovie
 https://21oy.short.gy/5WF7iU
@@ -100,18 +160,6 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
 
 #EXTINF:-1,FusoSerie2
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8
-
-#EXTINF:-1,มังกร
-https://boxmovie-th.com/app-api-android/true/Mangorn/playlist.m3u8
-
-#EXTINF:-1,AND TV online
-https://live.thaitvstream.com/play/andtv/index.m3u8
-
-#EXTINF:-1,Ping
-http://916309128f3e.sn.mynetname.net:1935/aslive/warnertv/chunklist.m3u8
-
-#EXTINF:-1,JOMYUTH
-http://161.82.243.130:1936/HDChampion/Champion/playlist.m3u8
 
 #EXTINF:-1,Sun
 https://21oy.short.gy/FnkvKC
@@ -144,34 +192,13 @@ https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
 http://61.19.242.134/feed/202105171329/LC28/index.m3u8
 
 #EXTINF:-1,Thrill
-http://61.19.242.134/feed/202105171329/LC26/index..m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
 
-#EXTINF:-1,K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1,CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1,Fox HD
-https://sc.id-tv.kz/FOX_HD_34_35.m3u8
-
-#EXTINF:-1,STAR WORLD
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:-1,Kix hd
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1,comedy1
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
-
-#EXTINF:-1,Kix
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1,STAR MOVIES
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,CINEMAX HD
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-
-#EXTINF:-1,FX MOVIES
-http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/137207
 
 #EXTINF:-1,PSI Saradee
 https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist.m3u8
@@ -220,6 +247,12 @@ https://www.wopep.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 2
 https://www.wopep.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1, beIN Sport Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+
+#EXTINF:-1, beIN Sport Xtra n
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1,True PremierHD 1
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
@@ -289,3 +322,9 @@ https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1,SPOTV 2 
 https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1, NBA
+https://sport.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1,GOLF
+https://sport.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
