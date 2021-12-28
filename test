@@ -69,7 +69,7 @@ https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist.m3u
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1,HBO Signature
-http://udoofree.com/movie2/198/single-live?watch=1
+http://udoofree.com/movie2/175/single-live?watch=1
 
 #EXTINF:-1,True CHINESE MOVIE
 https://sport.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
@@ -174,7 +174,7 @@ https://21oy.short.gy/qBcNnG
 https://21oy.short.gy/3mBPjN
 
 #EXTINF:-1,ZEEหนัง 
-http://udoofree.com/movie2/232/single-live?watch=1
+http://139.99.27.33:9998/mtv-now/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Mix_major
 https://edge6a.v2h-cdn.com/m2s7/Mix_major.stream_720p/chunklist.m3u8
@@ -246,7 +246,6 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,National GEO
-
 http://139.99.27.33:9998/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 1
