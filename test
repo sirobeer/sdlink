@@ -68,6 +68,9 @@ https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist.m3u
 #EXTINF:-1,HBO
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
+#EXTINF:-1,HBO Signature
+http://origin.akamaized.net/hls/live/2007805/SIG/hdntl=exp=1640767602~acl=%2f*~data=hdntl~hmac=8c805eae00ce578d393ac1d7666d8ee3bf5295ff0667d33f35bebb89de947cec/3.m3u8
+
 #EXTINF:-1,True CHINESE MOVIE
 https://sport.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
