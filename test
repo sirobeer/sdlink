@@ -246,7 +246,8 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,National GEO
-http://udoofree.com/movie2/175/single-live?watch=1
+
+http://139.99.27.33:9998/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1,BEIN SPORT HD 1
 https://www.wopep.com/02_epl1_720p/chunklist.m3u8
